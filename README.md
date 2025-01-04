@@ -1,2 +1,3 @@
 # Governance-Connection
-Alucinações Neo - reais; ambiente #GameNight. CS50P |Place oh Honor
+Alucinações Neo - reais; ambiente #GameNight |HarvardX CS50x
+CS50's Introduction to Computer Science - Harvard School of Engineering and Applied Sciences
