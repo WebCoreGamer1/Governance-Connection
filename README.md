@@ -4,5 +4,4 @@
 <CS50X 
 <Place of Honor
 <@Oneide Maria
-<ESMAC
 <
